@@ -1,0 +1,35 @@
+h1{
+    background-color: chartreuse;
+    color: teal;
+}
+.heading{
+    color: red;
+}
+#dart{
+    color: indigo;
+}
+p{
+    color: blue !important;
+    font-size: 20rem;
+    text-decoration: dotted underline black;
+    text-transform: uppercase;
+}
+div{
+    /* text-shadow: 2px 2px 2px red; */
+    /* text-transform: uppercase; */
+    /* letter-spacing: 5px; */
+    /* word-spacing: 30px; */
+    font-family: fantasy;
+    font-weight: 100;
+    font-size: 2em;
+    color:rgba(0, 0, 255, 1) ;
+    color: #ff09ff;
+}
+.lorem{
+     line-height:50px ;
+    }
+body{
+    background: url('https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/7-corvette-c8-top-10.jpg?itok=qg1Tahyy');
+    background-size:cover;
+    color: ;
+}
